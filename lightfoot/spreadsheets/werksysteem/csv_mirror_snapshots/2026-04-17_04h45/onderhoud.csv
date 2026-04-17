@@ -1,0 +1,12 @@
+Onderhoudsblad — Werkstation,,,,,
+,,,,,
+Item,Taak,Frequentie,Duur (min),Materialen,Jaarkosten (€)
+Laptop scherm + toetsenbord,Reinigen met microvezel + isopropyl,Wekelijks,5,"Microvezeldoek, IPA",5
+Monitor,Afnemen met schermreiniger,Wekelijks,3,Schermreiniger spray,8
+Bureau + stoel,Afnemen met vochtige doek,Wekelijks,5,-,0
+Laptop,macOS-updates + backup check,Maandelijks,15,-,0
+USB-C kabels + hub,"Visuele check, vervanging slijtage",Jaarlijks,10,Reserve kabel €10,5
+Bureau (sta-mechanisme),Smeren + check hoogte-instelling,Jaarlijks,10,Siliconenspray,5
+Koptelefoon,"Oorkussens reinigen, kabel check",Maandelijks,5,Vochtige doek,0
+Laptop batterijcalibratie,"Check cyclustelling, indien >80% OK",Jaarlijks,10,-,0
+TOTAAL JAARKOSTEN,,,,,23

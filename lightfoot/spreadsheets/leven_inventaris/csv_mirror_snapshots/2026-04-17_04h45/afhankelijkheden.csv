@@ -1,0 +1,18 @@
+Afhankelijkheden — Overzicht alle functies,,
+Kritieke koppelingen tussen leeffuncties — norm en uitzondering,,
+,,
+Van,Naar,Kritieke koppeling
+Wonen,Alle functies,"Shelter is infrastructuurlaag: keuken, badkamer, werkplek, slaapplek, opslag."
+Kleding,Hygiëne,Wasmachine / wasplaats vereist voor kledingonderhoud.
+Kleding,Wonen,Opslagruimte: 1 kledingrail + lades in woning inbegrepen.
+Slaap,Wonen,"Slaapzone: min. 10 m², 16-18 °C regelbaar."
+Eten,Wonen,"Keuken: koelkast, werkblad, spoelbak, stopcontact vereist."
+Eten,Hygiëne,Afwas deelt water-infra. Handen wassen voor koken.
+Hygiëne,Wonen,"Badkamer: douche, wastafel, warm water, ventilatie."
+Werk,Wonen,"Stille werkzone, 6 m² min., stopcontact, daglicht."
+Werk,Mobiliteit,Thuiswerk = minder pendel = lagere mobiliteitskosten.
+Werk,Ontspanning,Laptop + koptelefoon dienen dubbel: werk én vrije tijd.
+Beweging,Wonen,2×2 m vrije vloer voor mat + kettlebell.
+Beweging,Mobiliteit,Dagelijks fietsen telt als cardio — geen dubbeltelling.
+Mobiliteit,Wonen,Fietsenstalling bij woning: overdekt en veilig.
+Mobiliteit,Locatie,Locatiekeuze woning bepaalt OV-nood en fietsafstand.
