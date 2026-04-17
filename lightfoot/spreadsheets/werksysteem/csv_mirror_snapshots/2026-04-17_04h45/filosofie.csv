@@ -1,0 +1,35 @@
+WERK — Filosofie & Ontwerpprincipes
+Lightfoot · Project Existenzminimum 2.0 · Vlaanderen 2026
+# WERKSYSTEEM
+""
+## Ontwerpdoel
+"Een ergonomisch, betrouwbaar en privacybewust werkstation dat kenniswerk,"
+communicatie en digitale taken volledig ondersteunt — thuis én mobiel.
+""
+## Standaardhardware
+"→ Laptop: MacBook Air M3 13"" (16 GB / 512 GB) — 10+ uur batterij, passieve koeling,"
+"   volwassen UNIX-basis, lange softwaresupport, uitstekende herverkoopwaarde."
+→ Monitor: LG 27UK850-W 4K USB-C — 1 kabel voor stroom + display + USB-hub.
+→ Ergonomisch bureau: FlexiSpot E7 Pro zit-sta (140×70) — primaire investering in gezondheid.
+→ Stoel: HAG Capisco 8106 of als budget: IKEA Markus — rug en heupen als prioriteit.
+→ Toetsenbord: Apple Magic Keyboard met Touch ID (aansluit op macOS-ecosysteem).
+"→ Muis: Logitech MX Master 3S — ergonomisch, still-click, USB-C."
+"→ Hoofdtelefoon: Sony WH-1000XM5 — ANC voor focus, communicatie en vrije tijdsgebruik."
+   (meervoudig gebruik: werk + ontspanning = geen extra toestel).
+""
+## Connectiviteit
+→ Vast internet: Telenet Fiber 500/50 Mbps — €49/maand (of Proximus Fiber equivalent).
+"→ VPN: Mullvad — €5/maand, no-log, betaling anoniem mogelijk, WireGuard protocol."
+→ Publiek wifi: NOOIT zonder VPN actief.
+→ Smartphone: deelt mobiele data en hotspot — geen apart mobiel abonnement voor werk.
+""
+## Energiegebruik
+"→ MacBook Air M3: max. 30W actief, gemiddeld 10-15W."
+→ Monitor LG 27UK850: max. 60W.
+→ Werktijdgebruik geschat: 8u/dag × 22 werkdagen = 176u/maand.
+→ Geschat maandelijks verbruik: ca. 15 kWh → ~€3/maand.
+""
+## Uitzondering
+→ NAS / thuisserver: niet opgenomen in basismodel.
+→ Tweede monitor: uitzondering bij specifiek professioneel vereiste.
+→ Printer: niet opgenomen — cloud print via bibliotheek/copy shop voor uitzonderlijk gebruik.

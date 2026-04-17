@@ -1,0 +1,22 @@
+Budget — Werk (TCO-overzicht),,,
+,,,
+INVESTERING,,,
+Post,Bedrag (€),,Toelichting
+Hardware werkstation (10 items),3306,,Eenmalige aankoopkost
+Totaal investering,3306,,
+,,,
+MAANDELIJKSE KOST,,,
+Kostenpost,Maandkost (€),Jaarkost (€),Toelichting
+Afschrijving hardware,56.98,683.76,Op basis van levensduur per item
+Internet (Telenet Fiber 500),49,588,Vaste verbinding thuis
+VPN (Mullvad),5,60,Privacy en beveiliging
+Cloud backup (iCloud 200GB),2.99,35.88,Automatische backup
+Elektriciteit werkstation,3,36,Geschat 15 kWh/maand × €0.20
+Onderhoud / verbraik materiaal,1.5,18,"Reinigingsmiddelen, kabels"
+TOTAAL / MAAND,118.47,1421.64,
+,,,
+TIJDSBELASTING (onderhoud),,,
+Activiteit,Tijd/maand (min),Tijd/jaar (u),
+"Updates, backup check, beveiliging",20,4,
+Reiniging hardware,15,3,
+TOTAAL,35,7,

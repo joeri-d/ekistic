@@ -1,0 +1,10 @@
+Afhankelijkheden — Wonen,,
+,,
+Van functie,Naar functie,Beschrijving
+Wonen,Alle functies,Shelter is de infrastructuurlaag voor alle andere leeffuncties.
+Wonen,Slaap,"Slaapzone: min. 10 m², temperatuur regelbaar 16-18 °C."
+Wonen,Eten,Keukenhoek: koelkast + 60 cm werkblad + spoelbak + stopcontact vereist.
+Wonen,Hygiëne,Badkamer: douche + wastafel + warm water + ventilatie vereist.
+Wonen,Werk,"Werkzone: stil, daglijcht, stopcontact, min. 6 m² vrije ruimte."
+Wonen,Beweging,Bewegingsvloer: 2×2 m vrij voor mat + kettlebell vereist.
+Wonen,Mobiliteit,"Fietsenstalling: veilige, overdekte stalling bij woning."
